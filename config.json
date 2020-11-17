@@ -1,0 +1,98 @@
+{
+  "baseurl": "https://floflis.github.io/blog/",
+  "languageCode": "pt-br",
+  "defaultContentLanguage": "pt",
+  "copyright": "Written in 2018 by Daniell Mesquita (https://daniellmesquita.eth.link)",
+  "favicon": "/blog/icon.ico",
+  "paginate": 3,
+  "paginatePath": "page",
+  "theme": "framework-hugo",
+  "taxonomies": {
+    "tag": "tags",
+    "category": "categories",
+    "author": "authors"
+  },
+  "languages": {
+    "pt": {
+      "languageName": "🇵🇹 Português",
+      "title": "Ainda precisam de um Terceiro Testamento?",
+      "menu": {
+        "main": [
+          {
+            "url": "",
+            "name": "",
+            "weight": 1
+          },
+          {
+            "url": "",
+            "name": "",
+            "weight": 2
+          },
+          {
+            "url": "",
+            "name": "",
+            "weight": 3
+          }
+        ]
+      }
+    },
+    "en": {
+      "languageName": "🇬🇧 English",
+      "title": "Do you still need a Third Testament?",
+      "menu": {
+        "main": [
+          {
+            "url": "",
+            "name": "",
+            "weight": 1
+          },
+          {
+            "url": "",
+            "name": "",
+            "weight": 2
+          },
+          {
+            "url": "",
+            "name": "",
+            "weight": 3
+          }
+        ]
+      }
+    }
+  },
+  "permalinks": {
+    "post": "/:year/:month/:title/",
+	"letter": "/:title/"
+  },
+  "params": {
+    "mainSections": [
+      "post",
+	  "letter"
+    ],
+    "author": "",
+    "sidebar": {},
+    "header": {},
+    "footer": {}
+  },
+  "outputFormats": {
+    "SearchIndex": {
+      "mediaType": "application/json",
+      "baseName": "searchindex",
+      "isPlainText": true,
+      "notAlternative": true
+    }
+  },
+  "outputs": {
+    "home": [
+      "HTML",
+      "RSS",
+      "SearchIndex",
+      "JSON"
+    ],
+    "section": [
+      "HTML",
+      "RSS",
+      "JSON"
+    ]
+  }
+}
