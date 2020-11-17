@@ -6,7 +6,7 @@ tags: ["presentation", "logs"]
 categories: ["logs"]
 ---
 
-![](/blog/img/letters/blumenauans/1.png)
+![](img/letters/blumenauans/1.png)
 
 ### CHAPTER 1
 
