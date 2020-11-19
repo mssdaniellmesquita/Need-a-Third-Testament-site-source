@@ -1,4 +1,4 @@
----
+﻿---
 author: "Daniell Mesquita"
 date: 2019-06-23T14:33:54-04:00
 title: Adultos - 1ª carta aos Blumenauenses
@@ -6,7 +6,7 @@ tags: ["presentation", "logs"]
 categories: ["logs"]
 ---
 
-![](img/letters/blumenauans/1.png)
+![](/img/letters/blumenauans/1.png)
 
 ### CAPÍTULO 1
 

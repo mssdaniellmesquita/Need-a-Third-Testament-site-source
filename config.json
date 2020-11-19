@@ -4,7 +4,7 @@
   "languageCode": "pt-br",
   "defaultContentLanguage": "pt",
   "copyright": "Written in 2018 by Daniell Mesquita (https://daniellmesquita.eth.link)",
-  "favicon": "icon.ico",
+  "favicon": "/icon.ico",
   "paginate": 3,
   "paginatePath": "page",
   "theme": "framework-hugo",
