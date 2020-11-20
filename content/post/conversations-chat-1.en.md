@@ -10,7 +10,7 @@ categories: ["logs"]
 
 ---
 description: >-
-  **Note**: If you do not understand English / Spanish or do not like dialogues, you
+  **Note**: if you do not understand English / Spanish or do not like dialogues, you
   can read the letters or songs.
 ---
 
