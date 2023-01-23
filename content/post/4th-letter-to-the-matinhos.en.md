@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 date: 2019-06-23T14:33:54-04:00
 title: 4th Letter to the Matinhos
 tags: ["presentation", "logs"]

@@ -1,5 +1,5 @@
 ---
-author: "Daniell Mesquita"
+author: "Daniella Mesquita"
 date: 2019-06-23T14:33:54-04:00
 title: Conversations - Chat 1
 tags: ["presentation", "logs"]
@@ -10,8 +10,7 @@ categories: ["logs"]
 
 ---
 description: >-
-  **Note**: if you do not understand English / Spanish or do not like dialogues, you
-  can read the letters or songs.
+  **Note**: if you don't understand English / Spanish, you can read the next dialogues (chat 2, etc.), or if you don't like dialogues, you can read letters or songs.
 ---
 
 03/29/18
